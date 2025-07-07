@@ -76,10 +76,16 @@ npm run dev
 
 
 ## 🤝 Contributing
-Contributions are welcome! Please open issues or pull requests for improvements, bug fixes, or new features.
+
+We appreciate your interest in Car Jiji! At this time, contributions are only accepted from approved collaborators. If you have suggestions or would like to partner with us, please contact the team directly.
+
+---
 
 ## 📄 License
-This project is licensed under the MIT License.
+
+Car Jiji is a proprietary project. All rights reserved.  
+No part of this project may be copied, distributed, or modified without explicit written permission from the project owner.
+
 
 ## 📞 Contact
 For questions or support, visit the Contact Us page or email us at info@carjiji.co.ke.
