@@ -75,13 +75,13 @@ Car Jiji aims to:
 npm run dev
 
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please open issues or pull requests for improvements, bug fixes, or new features.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-📞 Contact
+## 📞 Contact
 For questions or support, visit the Contact Us page or email us at info@carjiji.co.ke.
 
 Together, let's drive Kenya towards a greener, more sustainable future!
