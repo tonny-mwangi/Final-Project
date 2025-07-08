@@ -52,7 +52,7 @@ const AboutPage = () => {
               </div>
               <div className="relative">
                 <img 
-                  src="https://images.unsplash.com/photo-1620891549027-942fdb72548c?auto=format&fit=crop&q=80&w=1974" 
+                  src="https://images.unsplash.com/photo-1739298061740-5ed03045b280?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
                   alt="Team photo" 
                   className="rounded-lg shadow-xl w-full h-[400px] object-cover"
                 />
@@ -121,12 +121,12 @@ const AboutPage = () => {
               {/* Team Member 1 */}
               <div className="bg-white rounded-lg shadow-md overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=1974" 
-                  alt="David Kamau - CEO" 
+                  src="https://images.unsplash.com/photo-1738750908048-14200459c3c9?q=80&w=327&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+                  alt="Tonny Mwangi - CEO" 
                   className="w-full h-64 object-cover object-center"
                 />
                 <div className="p-6">
-                  <h3 className="font-bold text-xl text-gray-800">David Kamau</h3>
+                  <h3 className="font-bold text-xl text-gray-800">Tonny Mwangi</h3>
                   <p className="text-carjiji-green font-medium">CEO & Co-Founder</p>
                   <p className="text-gray-600 mt-2">
                     David has over 15 years of experience in the automotive industry and is passionate about 
@@ -138,7 +138,7 @@ const AboutPage = () => {
               {/* Team Member 2 */}
               <div className="bg-white rounded-lg shadow-md overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=1976" 
+                  src="https://images.unsplash.com/photo-1633419798503-0b0c628f267c?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
                   alt="Sarah Omondi - COO" 
                   className="w-full h-64 object-cover object-center"
                 />

@@ -9,7 +9,7 @@ const AboutSection = () => {
           <div className="relative">
             <div className="relative z-10 rounded-xl overflow-hidden shadow-xl">
               <img
-                src="https://images.unsplash.com/photo-1572967672400-8201a527f1c7?ixlib=rb-1.2.1&auto=format&fit=crop&q=80&w=2070"
+                src="https://images.unsplash.com/photo-1731348594245-65d9828da87a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Car Jiji eco-friendly fleet"
                 className="w-full h-full object-cover"
               />

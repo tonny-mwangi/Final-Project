@@ -95,7 +95,7 @@ const ContactPage = () => {
                   Mon-Fri from 8am to 6pm
                 </p>
                 <a href="tel:+254712345678" className="text-carjiji-green font-medium hover:underline">
-                  +254 712 345 678
+                  +254 757 270 468
                 </a>
               </div>
               
