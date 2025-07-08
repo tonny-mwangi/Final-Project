@@ -4,6 +4,20 @@ Car Jiji is Kenya's premier eco-friendly car rental marketplace, focused on prov
 
 ---
 
+## Project URL
+
+https://carjijike.vercel.app/
+
+
+---
+
+## Project Preview
+
+![alt text](image.png)
+
+
+---
+
 ## 🚗 Project Aim
 
 Car Jiji aims to:

@@ -129,7 +129,7 @@ const AboutPage = () => {
                   <h3 className="font-bold text-xl text-gray-800">Tonny Mwangi</h3>
                   <p className="text-carjiji-green font-medium">CEO & Co-Founder</p>
                   <p className="text-gray-600 mt-2">
-                    David has over 15 years of experience in the automotive industry and is passionate about 
+                    Tonny has over 15 years of experience in the automotive industry and is passionate about 
                     sustainable transportation solutions.
                   </p>
                 </div>
